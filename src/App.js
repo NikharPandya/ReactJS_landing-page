@@ -1,5 +1,6 @@
 import "./App.css";
 import Header from "./components/Header";
+import Item from "./components/item";
 
 import SolarPanels from "./assets/Desktop-SolarPanels.jpeg";
 import ModelS from "./assets/Desktop-ModelS.jpeg";
@@ -7,7 +8,7 @@ import Model3 from "./assets/Desktop-Model3.jpeg";
 import ModelX from "./assets/Desktop-ModelX.jpeg";
 import ModelY from "./assets/Desktop-ModelY.jpeg";
 import SolarRoof from "./assets/Desktop-SolarRoof.jpeg";
-import Accessories from "./assets/Desktop-Accessories.jpeg";
+import Accessories from "./assets/Desktop-Accessories.jpg";
 
 function App() {
   return (
@@ -37,7 +38,6 @@ function App() {
           rightBtnTxt="LEARN MORE"
           rightBtnLink=""
           twoButtons="true"
-          first
         />
 
         <Item
@@ -50,7 +50,6 @@ function App() {
           rightBtnTxt="LEARN MORE"
           rightBtnLink=""
           twoButtons="true"
-          first
         />
 
         <Item
@@ -63,7 +62,6 @@ function App() {
           rightBtnTxt="LEARN MORE"
           rightBtnLink=""
           twoButtons="true"
-          first
         />
 
         <Item
@@ -76,7 +74,6 @@ function App() {
           rightBtnTxt="LEARN MORE"
           rightBtnLink=""
           twoButtons="true"
-          first
         />
 
         <Item
@@ -89,7 +86,6 @@ function App() {
           rightBtnTxt="LEARN MORE"
           rightBtnLink=""
           twoButtons="true"
-          first
         />
 
         <Item
@@ -102,7 +98,6 @@ function App() {
           rightBtnTxt="LEARN MORE"
           rightBtnLink=""
           twoButtons="true"
-          first
         />
       </div>
     </div>
