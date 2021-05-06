@@ -10,10 +10,10 @@ const Header = () => {
       </div>
 
       <div className="header__center">
-        <p>Modal S</p>
-        <p>Modal 3</p>
-        <p>Modal X</p>
-        <p>Modal Y</p>
+        <p>Model S</p>
+        <p>Model 3</p>
+        <p>Model X</p>
+        <p>Model Y</p>
         <p>Solar Roof</p>
         <p>Solar Panel</p>
       </div>
