@@ -37,11 +37,7 @@ const item = ({
               <Button imp="secondary" text={rightBtnTxt} link={rightBtnLink} />
             )}
           </div>
-          {first && (
-            <div className="item__expand">
-              <ExpandMoreIcon />
-            </div>
-          )}
+          {first && <div className="item__expand">{<ExpandMoreIcon />}</div>}
         </div>
       </div>
     </div>
